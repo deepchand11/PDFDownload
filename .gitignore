@@ -1,0 +1,7 @@
+dist
+dist.zip
+node_modules
+npm-debug.log
+.DS_Store
+.vscode
+package-lock.json
